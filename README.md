@@ -2,7 +2,7 @@
 
 Link para ver resultado: [VALIDACION DE FORMULARIOS]()
 
-Este es un tutorial paso a paso sobre cómo crear una aplicación de validación de formulario utilizando JavaScript y Firebase. La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña. A continuación, se explica el funcionamiento del código JavaScript:
+Este es un tutorial paso a paso sobre cómo crear una aplicación de validación de formulario utilizando JavaScript. La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña. A continuación, se explica el funcionamiento del código JavaScript:
 
 ## Validación del Formulario
 
