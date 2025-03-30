@@ -1,6 +1,6 @@
 # Tutorial de Validación de Formulario
 
-Link para ver resultado: [VALIDACION DE FORMULARIOS]()
+Link para ver resultado: [VALIDACION DE FORMULARIOS](https://validacion-formulario-js2.netlify.app/)
 
 Este es un tutorial paso a paso sobre cómo crear una aplicación de validación de formulario utilizando JavaScript. La aplicación permite a los usuarios ingresar su nombre, correo electrónico y contraseña. A continuación, se explica el funcionamiento del código JavaScript:
 
